@@ -3,6 +3,8 @@ label: "Valoracion"
 
 # include all the views
 include: "/views/**/*.view"
+include: "/views_agregadas/**/*.view"
+include: "/views_pdt/**/*.view"
 
 
 datagroup: dlw_bma_default_datagroup {

@@ -1,6 +1,6 @@
 connection: "gcp-dw-desa"
 
-include: "/views_dev/**/*.view"
+include: "/views/**/*.view"
 include: "/views_agregadas/**/*.view"
 include: "/views_pdt/**/*.view"
 
